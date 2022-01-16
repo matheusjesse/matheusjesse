@@ -1,9 +1,9 @@
 ### Matheus Jessé 👋
 <a href="https://github.com/matheusjesse/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange" width = "415" height="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange" width = "415" height="320"/>
 </a>
 <a href="https://github.com/matheusjesse/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange" width = "415" height="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange" width = "415" height="320"/>
 </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
