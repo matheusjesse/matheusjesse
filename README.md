@@ -1,12 +1,10 @@
 ### Matheus Jessé 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange)](https://github.com/matheusjesse/github-readme-stats)
 
 <a href="https://github.com/matheusjesse/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange" width = "350" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange" width = "350" height="250"/>
 </a>
 <a href="https://github.com/matheusjesse/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange" width = "350" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange" width = "350" height="250"/>
 </a>
 
 **matheusjesse/matheusjesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
