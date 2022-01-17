@@ -4,10 +4,10 @@
 </div>  
 <div align="center">
 <a href="https://github.com/matheusjesse/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange" width = "320" height="180"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange"/>
 </a>
 <a href="https://github.com/matheusjesse/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange" width = "320" height="180"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange"/>
 </a>
 </div>
 <div style="display: inline_block"><br>
