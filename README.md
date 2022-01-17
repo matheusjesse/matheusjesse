@@ -1,4 +1,7 @@
 ## Matheus Jessé 👋
+<div>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <div align="center">
 <a href="https://github.com/matheusjesse/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange" width = "415" height="320"/>
@@ -15,6 +18,4 @@
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div>
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
