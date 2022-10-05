@@ -10,6 +10,7 @@
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange"/>
 </a>
 </div>
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,styledcomponents,git,docker,js" />
