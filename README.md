@@ -1,4 +1,4 @@
-<p>Olá, meu nome é Matheus Jessé, sou desenvolvedor web júnior, apaixonado por transformar ideias em realidade através da tecnologia. Sempre busco novos desafios e oportunidades de aprendizado para melhorar minhas habilidades.</p>
+<p>Olá, Desenvolvedor web full-stack e atualmente estudando UX/UI </p>
 
 
 Email: matheus_jesse@hotmail.com || Linkedin: https://www.linkedin.com/in/matheusjesse || Portfólio: https://matheusjesse.vercel.app/
