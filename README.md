@@ -1,4 +1,4 @@
-<p>Olá, Desenvolvedor web full-stack e atualmente estudando UX/UI </p>
+<p>Olá, sou Desenvolvedor Web Full-Stack e atualmente estou estudando UX/UI </p>
 
 
 Email: matheus_jesse@hotmail.com || Linkedin: https://www.linkedin.com/in/matheusjesse || Portfólio: https://matheusjesse.vercel.app/
