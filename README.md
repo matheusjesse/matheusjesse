@@ -8,12 +8,12 @@ Email: matheus_jesse@hotmail.com || Linkedin: https://www.linkedin.com/in/matheu
 <div>
 <a href="https://www.linkedin.com/in/matheusjesse/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>  
-<div align="center">
+<div align="start">
 <a href="https://github.com/matheusjesse/github-readme-stats">
-  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=slateorange"/>
+  <img height="167em" align="start" src="https://github-readme-stats.vercel.app/api?username=matheusjesse&show_icons=true&theme=transparent&hide=issues,contribs"/>
 </a>
 <a href="https://github.com/matheusjesse/convoychat">
-  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=slateorange"/>
+  <img height="167em" align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjesse&layout=compact&langs_count=8&theme=transparent&hide_progress=true"/>
 </a>
 </div>
 <br/>
