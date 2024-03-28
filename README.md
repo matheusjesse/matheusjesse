@@ -21,25 +21,25 @@ Email: matheus_jesse@hotmail.com || Linkedin: https://www.linkedin.com/in/matheu
 <h4>Front-End</h4>
 <p align="start">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,styledcomponents,js,react,ts,nextjs,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,styledcomponents,js,react,ts,nextjs,vite,tailwind&theme=light" />
   </a>
 </p>
 <h4>Back-End</h4>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,express,nodejs,ts,sequelize" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,express,nodejs,ts,sequelize&theme=light" />
   </a>
 </p>
 <h4>Tecnologias</h4>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,linux,git,github,figma,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,linux,git,github,figma,docker&theme=light" />
   </a>
 </p>
 <h4>Tecnologias que da para desenrolar</h4>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,dotnet,cs" />
+    <img src="https://skillicons.dev/icons?i=py,dotnet,cs&theme=light" />
   </a>
 </p>
 
