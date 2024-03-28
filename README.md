@@ -17,16 +17,29 @@ Email: matheus_jesse@hotmail.com || Linkedin: https://www.linkedin.com/in/matheu
 </a>
 </div>
 <br/>
-<p align="center">
+<h1>Linguagens e tecnologias</h1>
+<h4>Front-End</h4>
+<p align="start">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,styledcomponents,git,docker,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,styledcomponents,js,react,ts,nextjs,vite,tailwind" />
   </a>
 </p>
-<p align="center">
+<h4>Back-End</h4>
+<p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,express,nodejs,react,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,express,nodejs,ts,sequelize" />
   </a>
 </p>
-
-
+<h4>Tecnologias</h4>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,linux,git,github,figma,docker" />
+  </a>
+</p>
+<h4>Tecnologias que da para desenrolar</h4>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,dotnet,cs" />
+  </a>
+</p>
 
