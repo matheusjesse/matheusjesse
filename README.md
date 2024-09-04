@@ -1,7 +1,5 @@
 <p>Olá, sou Desenvolvedor Web Full-Stack, sempre interessado em aprender algo novo sobre programação. </p>
 
-
-Email: matheus_jesse@hotmail.com || Linkedin: https://www.linkedin.com/in/matheusjesse || Portfólio: https://matheusjesse.vercel.app/
 <br><br/>
 
 ![github-header-image (2)](https://user-images.githubusercontent.com/28015951/170158432-8b8b8c6f-2d34-407a-9a46-1a51f1326864.png)
