@@ -2,7 +2,6 @@
 
 <br><br/>
 
-![github-header-image (2)](https://user-images.githubusercontent.com/28015951/170158432-8b8b8c6f-2d34-407a-9a46-1a51f1326864.png)
 <div>
 <a href="https://www.linkedin.com/in/matheusjesse/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>  
