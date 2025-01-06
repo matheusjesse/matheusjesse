@@ -1,6 +1,6 @@
 <p>Olá, sou Desenvolvedor Web Full-Stack, sempre interessado em aprender algo novo sobre programação. </p>
 
-Desenvolvedor Full-Stack, trabalhando atualmente na @Markts !
+Atualmente, estou trabalhando na @Markts como desenvolvedor Full-Stack!
 
 <br><br/>
 <a href="https://www.linkedin.com/in/matheusjesse/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
