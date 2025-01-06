@@ -1,9 +1,11 @@
 <p>Olá, sou Desenvolvedor Web Full-Stack, sempre interessado em aprender algo novo sobre programação. </p>
 
-<br><br/>
+Trabalhando atualmente na @Markts
 
-<div>
+<br><br/>
 <a href="https://www.linkedin.com/in/matheusjesse/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<br><br/>
+<div>
 </div>  
 <div align="start">
 <a href="https://github.com/matheusjesse/github-readme-stats">
